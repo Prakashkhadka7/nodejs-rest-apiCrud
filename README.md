@@ -1,4 +1,4 @@
-# nodejs-rest-apiCrud with Node js and Postgres 
+# Node js  restful API CRUD with Node js and Postgres 
 Create the database and configure with the proper credentials.
 Run npm install
 Run `node server.js` for a dev server. Navigate to `http://localhost:4000/`. 
