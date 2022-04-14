@@ -1,5 +1,5 @@
 # Node js  restful API CRUD with Node js and Postgres 
-Create the database and configure with the proper credentials.
+Create the database and configure with the matching credentials look at the db.js file for db configuration.
 
 Run npm install.<br>
 
